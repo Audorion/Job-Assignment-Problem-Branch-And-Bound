@@ -1,0 +1,13 @@
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.exe
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.deps.json
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.runtimeconfig.json
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.runtimeconfig.dev.json
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.dll
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\bin\Debug\netcoreapp3.1\TaskFirst.pdb
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.AssemblyInfoInputs.cache
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.AssemblyInfo.cs
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.csproj.CoreCompileInputs.cache
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.dll
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.pdb
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.genruntimeconfig.cache
+C:\Users\max-2\source\repos\TaskFirst\TaskFirst\obj\Debug\netcoreapp3.1\TaskFirst.csprojAssemblyReference.cache
